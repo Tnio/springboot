@@ -1,7 +1,5 @@
 package indi.twc.boot.mongodb.test;
 
-import com.google.gson.Gson;
-
 import java.util.Date;
 
 public class TestGson {

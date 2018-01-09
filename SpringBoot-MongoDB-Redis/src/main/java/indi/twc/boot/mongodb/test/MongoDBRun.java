@@ -1,14 +1,6 @@
 package indi.twc.boot.mongodb.test;
 
-import com.mongodb.*;
-import com.mongodb.client.FindIterable;
-import com.mongodb.client.MongoCollection;
-import com.mongodb.client.MongoDatabase;
-import com.mongodb.client.model.Filters;
-import org.bson.Document;
-import org.bson.types.ObjectId;
-import org.junit.Before;
-import org.junit.Test;
+
 
 import java.net.UnknownHostException;
 
